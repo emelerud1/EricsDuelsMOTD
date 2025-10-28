@@ -1,4 +1,4 @@
---## **Welcome To**--
+-- ##**Welcome To** --
 # **Eric's Duelyard**
 
 ## **RULES**
