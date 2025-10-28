@@ -6,5 +6,5 @@
 * Do not impersonate other players
 * Do not create false/troll votes
 * Avoid retaliating against RDM - alert a mod or create a vote
-
+<br/><br/>
 <a id="This server is affiliated with RTA - Join Here">https://discord.gg/Cv3GRNVYpK</>
