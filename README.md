@@ -1,6 +1,4 @@
-## **Welcome To**
 # **Eric's Casual Duels**
-
 ## **RULES**
 * Do not engage in RDM or FFA
 * Do not Engage in trolling or improper conduct
