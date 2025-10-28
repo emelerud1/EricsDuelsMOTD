@@ -1,3 +1,4 @@
+<p align="center">
 ## **Welcome To**
 # **Eric's Duelyard**
 
@@ -9,3 +10,4 @@
   * Avoid retaliating against RDM - alert a mod or create a vote
 
   <a id="Mordhau Discord">https://discord.gg/mordhau</>
+</p>
