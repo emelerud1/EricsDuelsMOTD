@@ -7,6 +7,6 @@
 * Avoid retaliating against RDM - alert a mod or create a vote
 
 
-This server has an <a id="official discord - Join Here">https://discord.gg/VM8SjbHt2k</>
+This server has an <a id="official discord - Join Here">https://discord.gg/aBB9dGpzT2</>
 
 This server is also affiliated with <a id="RTA - Join Here">https://discord.gg/Cv3GRNVYpK</>
