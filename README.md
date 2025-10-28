@@ -7,7 +7,4 @@
 * Do not create false/troll votes
 * Avoid retaliating against RDM - alert a mod or create a vote
 
-
-
-### **This server is affiliated with RTA - join the discord here:**
-<a id="RTA Discord">https://discord.gg/Cv3GRNVYpK</>
+<a id="This server is affiliated with RTA - Join Here">https://discord.gg/Cv3GRNVYpK</>
