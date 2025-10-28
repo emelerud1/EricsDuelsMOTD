@@ -1,6 +1,4 @@
-<p align="center">
-
-## **Welcome To**
+--## **Welcome To**--
 # **Eric's Duelyard**
 
 ## **RULES**
@@ -11,5 +9,3 @@
 * Avoid retaliating against RDM - alert a mod or create a vote
 
 <a id="Mordhau Discord">https://discord.gg/mordhau</>
-
-</p>
