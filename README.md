@@ -1,5 +1,5 @@
 # **Eric's Casual Duels**
-### **RULES**
+### **Rules:**
 * Do not engage in RDM or FFA
 * Do not Engage in trolling or improper conduct
 * Do not impersonate other players
