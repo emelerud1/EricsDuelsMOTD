@@ -1,5 +1,5 @@
 ## **Welcome To**
-# **Eric's Duelyard f**
+# **Eric's Duelyard**
 
   ## **RULES**
   * Do not engage in RDM or FFA
