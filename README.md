@@ -1,4 +1,4 @@
-# **Eric's Casual Duels**
+# **Eric's Duelyard**
 ## **Rules:**
 * Do not engage in RDM or FFA
 * Do not Engage in trolling or improper conduct
