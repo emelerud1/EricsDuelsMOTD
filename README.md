@@ -9,4 +9,4 @@
 
 This server has an <a id="official discord - Join Here">https://discord.gg/ERBX8yw4zU</>
 
-This server is also affiliated with <a id="RTA - Join Here">https://discord.gg/Cv3GRNVYpK</>
+This server is also affiliated with <a id="RTA - Join Here">https://discord.gg/rtarestoreconstantinople</>
